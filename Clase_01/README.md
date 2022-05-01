@@ -2,7 +2,6 @@
 ## __Tema 01:__ Clase introductoria
 
 * Cómo utilizar Github durante el curso. Clic para ver el [video]().
-* 
 
 ## __Tema 02:__ Imprimir en pantalla
 * Función print()
