@@ -19,3 +19,26 @@ Actualmente Python es uno de los lenguajes más demandados tanto en el ámbito l
 | __Día 9__ Jueves 18 de febrero    |  __Tema 10:__ Módulo de NumPy                               |                                                                          |
 | __Día 10__ Viernes 19 de febrero  |  __Tema 11:__ Gráficas con el módulo de Matplotlib          |                                                         
 |                                   |  __Tema 12:__ Gráficas con el módulo de Plotly              |                                                                          |
+
+
+## Código de conducta
+En AFIF, estamos comprometidos completamente con los valores humanos y su importancia dentro de las interacciones interpersonales.
+
+Por lo tanto, el curso de Introducción a Python se rige por estos mismos, así como por reglas de conducta apropiadas, en función de sacar el máximo provecho a las actividades realizadas, y generar un ambiente íntegro de aprendizaje y progreso. Así pues, solicitamos la colaboración de todos y cada uno de los participantes sin excepción, a respetar estos lineamientos establecidos.
+
+Cualquier falta de respeto o agresión hacia algún miembro tanto de la AFIF, como participante inscrito al curso, será inadmisible y penalizada. De esta manera, solicitamos que no exista agresión hacia los otros participantes, y si eres víctima o presencias algún acto de esta índole, lo notifiques de manera inmediata.
+
+Por su comprensión, gracias. Les deseamos mucho éxito.
+
+
+## Código de honestidad
+Habrá ejercicios y desafíos propuestos que el estudiante deberá realizar, y aunque estos no sean _obligatorios_ para recibir su certificado, será parte de su __responsabilidad y honestidad__ realizarlos.
+
+
+
+## Instructores
+
+- [David Ángel Alba Bonilla](https://github.com/DavidAlba2627) - Estudiante de Ingeniería Física
+- [Edgar Lara Arellano](https://github.com/Edgar-La) - Estudiante de Ingeniería Física
+- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht) - Estudiante de Ingeniería Física
+- [Uriel Cárdenas Aguilar](https://github.com/Uriel148) - Estudiante de Ingeniería Física
