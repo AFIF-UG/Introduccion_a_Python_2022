@@ -8,7 +8,7 @@
 * Guardar strings en variables
 * Concatenar strings
 
-Clic para ver el [video]() del _Tema 02_.
+Clic para ver el [video]() del _Tema 02_..
 
 ### Código
 [Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_01/Codigo_Tema_02.ipynb) del _Tema 02_.
