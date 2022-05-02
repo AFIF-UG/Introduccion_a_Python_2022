@@ -11,7 +11,7 @@
 Clic para ver el [video](https://youtu.be/vCv2DMTzAqU) del _Tema 02_.
 
 ### Código
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_01/Codigo_Tema_02.ipynb) del _Tema 02_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_01/Codigo_Tema_02.ipynb) del _Tema 02_.
 
 
 # Registro de asistencia
