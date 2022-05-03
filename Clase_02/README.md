@@ -1,6 +1,6 @@
 # Temas 
 ## __Como compartir links__
-En este [video](https://drive.google.com/file/d/1nr8WhOn3J1szrHt0Gjp2MGh7JcXh6b56/view?usp=sharing) podrás ver cómo colocar tus links públicos para que los instructores y los demás estudiantes puedan verlos.
+En este [video](https://drive.google.com/file/d/12PsvC-qtr1HHpjBizChsmlwRhSaWEDWD/view?usp=sharing) podrás ver cómo colocar tus links públicos para que los instructores y los demás estudiantes puedan verlos.
 
 
 ## __Tema 03:__ Tipos de variables
