@@ -21,9 +21,9 @@ Clic para ver el [video](https://youtu.be/G_-DWPXYhWk) del _Tema 03_.
 Clic para ver el [video](https://youtu.be/WYOEGTQgNRE) del _Tema 04_.
 
 ## Códigos
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_02/Codigo_Tema_3.ipynb) del _Tema 03_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_02/Codigo_Tema_3.ipynb) del _Tema 03_.
 
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_02/Codigo_tema_4.ipynb) del _Tema 04_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_02/Codigo_tema_4.ipynb) del _Tema 04_.
 
 
 # Registro de asistencia
