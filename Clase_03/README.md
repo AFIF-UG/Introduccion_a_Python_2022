@@ -9,7 +9,7 @@ Clic para ver el [video](https://youtu.be/RL37CWFkDdY) del _Tema 05_.
 
 
 ## Código:
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_03/Codigo_Tema_05.ipynb) del _Tema 05_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_03/Codigo_Tema_05.ipynb) del _Tema 05_.
 
 
 
