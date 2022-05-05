@@ -8,7 +8,7 @@ Clic para ver el [video](https://youtu.be/Akl4V8O9Wvk) del _Tema 06_.
 
 
 ## Código:
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_04/Codigo_Tema_6.ipynb) del _Tema 06_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_04/Codigo_Tema_6.ipynb) del _Tema 06_.
 
 
 
