@@ -6,7 +6,7 @@ Clic para ver el [video](https://youtu.be/ji4BGQjq48I) del _Tema 07_.
 
 
 ## Código:
-[Código]() del _Tema 07_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_05/Codigo_Tema_Condicionales_7.ipynb) del _Tema 07_.
 
 
 
