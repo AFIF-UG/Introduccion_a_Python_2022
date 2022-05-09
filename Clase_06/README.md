@@ -4,7 +4,7 @@ Ciclos
 * while
 
 
-Clic para ver el [video](https://drive.google.com/file/d/1CPJlHWTVov4sGn35ZJVRsTA1RV8gQYlc/view?usp=sharing) del _Tema 08_.
+Clic para ver el [video](https://youtu.be/ii8gHQ_GP2w) del _Tema 08_.
 
 
 ## Código:
@@ -12,6 +12,9 @@ Clic para ver el [video](https://drive.google.com/file/d/1CPJlHWTVov4sGn35ZJVRsT
 
 
 # Registro de asistencia
-__OJO:__ _Recuerda que es muy importante que marques tu asistencia en el siguiente [registro](https://docs.google.com/forms/d/e/1FAIpQLSfTrtE35AAd4XeVGzmi6z66PUeGb8RXOwgR4iV6aNOG_kVeFA/viewform?usp=sf_link)_.
+__OJO:__ _Recuerda que es muy importante que marques tu asistencia en el siguiente [registro](https://docs.google.com/forms/d/e/1FAIpQLSechSwHJIt5L0yMd8--4CAm9aG_gxsteLpFFoLLvFLgVMaHGQ/viewform?usp=sf_link)_.
 
 Esto debes hacerlo para c/u de las clases, tendrás un ventana de tiempo de __3 días__.
+
+
+__Te invitamos a dar like a los videos de las clases de hoy y a suscribirte al canal de [AFIF](https://www.youtube.com/channel/UCCoXhG-Jl1e1VZIezRn8Y3Q) :computer::snake::sunglasses:__
