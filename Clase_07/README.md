@@ -35,6 +35,8 @@ print(num) --> 6
 
 Sugerencia: Primero trate de hacer algunos ejercicios en papel y con ello encuentre una formula para saber cuantos datos tiene que tener el vector, para los dos casos. 
 
+Puedes comenzar a hacer tu tarea en el siguiente [link](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_07/Tarea_Tema_09.ipynb) solo recuerda subir tu tarea, mucho éxito.
+
 Ya hay métodos que realizan esto de forma automática, pero consideramos este un buen ejercicio para que pongan en práctica lo aprendido y desarrollen una buena lógica de programación
 
 
