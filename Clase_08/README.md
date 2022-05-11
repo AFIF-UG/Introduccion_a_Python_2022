@@ -5,7 +5,7 @@ Clic para ver el [video](https://drive.google.com/file/d/12tqxxpRIVtLMU2TuPYI17x
 
 
 ## Código:
-[Código](https://github.com/AFIF-UG/Introduccion_a_Python-Curso_Online/blob/main/Clase_08/C%C3%B3digo__Tema_10.ipynb) del _Tema 10_.
+[Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_08/Codigo_tema_10.ipynb) del _Tema 10_.
 
 
 # Registro de asistencia
