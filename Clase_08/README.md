@@ -1,7 +1,7 @@
  # __Tema 10: Apertura de archivos__
 
 
-Clic para ver el [video](https://drive.google.com/file/d/12tqxxpRIVtLMU2TuPYI17xCX3S83dyIb/view?usp=sharing) del _Tema 10_.
+Clic para ver el [video](https://youtu.be/LeAdcDCP_PQ) del _Tema 10_.
 
 
 ## Código:
