@@ -19,8 +19,8 @@
 Clic para ver el [video]()
 
 ## Código y datos del tema 13:
-* [Código]()
-* [Datos]()
+* [Código](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_10/Codigo_tema_13_graficas_plotly.ipynb)
+* [Datos](https://github.com/AFIF-UG/Introduccion_a_Python_2022/blob/main/Clase_10/datos.npy)
 
 
 
